@@ -5,7 +5,7 @@ namespace Hellomohsinhello\TempDir\Test;
 use FilesystemIterator;
 use Hellomohsinhello\TempDir\Exceptions\InvalidDirectoryName;
 use Hellomohsinhello\TempDir\Exceptions\PathAlreadyExists;
-use Hellomohsinhello\TempDir\tempDir;
+use Hellomohsinhello\TempDir\TempDir;
 use PHPUnit\Framework\TestCase;
 
 class TempDirTest extends TestCase
