@@ -1,4 +1,4 @@
-# Quickly create, use and delete temporary directories
+# This package is for learning purpose only. I have copied this package from [spatie/temporary-directory]
 
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
 [![PHP Composer](https://github.com/hellomohsinhello/temp-dir/actions/workflows/php.yml/badge.svg)](https://github.com/hellomohsinhello/temp-dir/actions/workflows/php.yml)
