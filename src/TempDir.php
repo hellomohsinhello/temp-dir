@@ -16,6 +16,8 @@ class TempDir
 
     protected bool $forceCreate = false;
 
+    protected bool $deleteWhenDestroyed = false;
+
     public function __construct(string $location = '')
     {
         $this->location = $this->sanitizePath($location);
