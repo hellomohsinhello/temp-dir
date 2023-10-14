@@ -1,6 +1,7 @@
 # Quickly create, use and delete temporary directories
 
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
+[![PHP Composer](https://github.com/hellomohsinhello/temp-dir/actions/workflows/php.yml/badge.svg)](https://github.com/hellomohsinhello/temp-dir/actions/workflows/php.yml)
 
 This package allows you to quickly create, use and delete a temporary directory in the system's temporary directory.
 
